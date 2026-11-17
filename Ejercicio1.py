@@ -5,3 +5,4 @@ if num1 > num2:
     print("El primer numero es mayor que el segundo numero")
 else:
     print("El segundo numero es mayor que el primer numero")
+    
